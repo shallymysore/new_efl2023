@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/new_efl2023/static/css/main.522efe5e.css",
-    "main.js": "/new_efl2023/static/js/main.d251901b.js",
+    "main.js": "/new_efl2023/static/js/main.2f45c44d.js",
     "static/js/787.f950c396.chunk.js": "/new_efl2023/static/js/787.f950c396.chunk.js",
     "static/media/Tata-IPL.jpg": "/new_efl2023/static/media/Tata-IPL.95439c7a1c277a2c6a49.jpg",
     "static/media/auction_hand.png": "/new_efl2023/static/media/auction_hand.5f736284011b0c5b66bf.png",
     "index.html": "/new_efl2023/index.html",
     "main.522efe5e.css.map": "/new_efl2023/static/css/main.522efe5e.css.map",
-    "main.d251901b.js.map": "/new_efl2023/static/js/main.d251901b.js.map",
+    "main.2f45c44d.js.map": "/new_efl2023/static/js/main.2f45c44d.js.map",
     "787.f950c396.chunk.js.map": "/new_efl2023/static/js/787.f950c396.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.522efe5e.css",
-    "static/js/main.d251901b.js"
+    "static/js/main.2f45c44d.js"
   ]
 }
