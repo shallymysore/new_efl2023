@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/new_efl2023/static/css/main.56fd0b3c.css",
-    "main.js": "/new_efl2023/static/js/main.5a77e469.js",
+    "main.css": "/new_efl2023/static/css/main.4c9b2935.css",
+    "main.js": "/new_efl2023/static/js/main.a91029bd.js",
     "static/js/787.f950c396.chunk.js": "/new_efl2023/static/js/787.f950c396.chunk.js",
+    "static/media/efl_logo.png": "/new_efl2023/static/media/efl_logo.b8e9a4e8154b72fad522.png",
     "static/media/Tata-IPL.jpg": "/new_efl2023/static/media/Tata-IPL.95439c7a1c277a2c6a49.jpg",
     "static/media/auction_hand.png": "/new_efl2023/static/media/auction_hand.5f736284011b0c5b66bf.png",
-    "static/media/EFLLogo.jpeg": "/new_efl2023/static/media/EFLLogo.20a0fe269c6438b455f6.jpeg",
     "index.html": "/new_efl2023/index.html",
-    "main.56fd0b3c.css.map": "/new_efl2023/static/css/main.56fd0b3c.css.map",
-    "main.5a77e469.js.map": "/new_efl2023/static/js/main.5a77e469.js.map",
+    "main.4c9b2935.css.map": "/new_efl2023/static/css/main.4c9b2935.css.map",
+    "main.a91029bd.js.map": "/new_efl2023/static/js/main.a91029bd.js.map",
     "787.f950c396.chunk.js.map": "/new_efl2023/static/js/787.f950c396.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56fd0b3c.css",
-    "static/js/main.5a77e469.js"
+    "static/css/main.4c9b2935.css",
+    "static/js/main.a91029bd.js"
   ]
 }
